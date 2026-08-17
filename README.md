@@ -1,3 +1,2 @@
 # shakeeb-first
-This is my first Git Repository
-author shakeeb
+This is my first Git Repository <br> author shakeeb
